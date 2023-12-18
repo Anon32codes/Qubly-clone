@@ -1,0 +1,478 @@
+body{font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  margin: 0;}
+
+.quily-logo01 img{
+  width:50px; 
+margin-right:50em;
+padding-left: 0.5em;}
+
+#nav-bar{display: flex;
+margin-top:10px;}
+
+#img-div a{padding-left:30px;}
+/*#first-list li.quily-logo01{margin-right: auto;}*/
+
+ul li{
+  list-style-type:none;
+  margin-left: 1em;}
+
+ul li a{
+ color: black;
+ text-decoration:none;
+font-family:Verdana,Tahoma, sans-serif;}
+
+ul li a:hover{text-decoration: underline;}
+
+
+ul.first-list{
+  display:flex;
+  background-color: white;
+  align-items: center;
+  padding: 1em;
+  margin: 0;}
+
+  button.start{
+    padding: 1em;
+    background-color: white;
+    border-radius: 20px;
+   border-style: solid;
+   border-color: rgb(156, 82, 156);}
+
+   button.start:hover{opacity: 0.5;}
+
+   div#second-header{width: 100%;
+     margin-top: 6em;
+      float: right;
+     background: linear-gradient(#FFFFFF,#E2F1FF);}
+
+      div#second-header div{float:left;
+         margin:2%;
+         margin-left:30px;}
+
+         #headings-you h1,p{
+          line-height: 1.5em;
+          padding-left:120px;}
+        
+
+         #headings-you h1{
+          font-size:48px;
+          font-weight:900;
+          font-family:Verdana, Geneva, Tahoma, sans-serif;
+          line-height: 48px;}
+
+          #headings-you p{
+            font-weight: 500;
+            font-size: 16px;
+             line-height: 24px;}
+
+          
+
+         .image img{margin-top:-1em;
+          padding-left:20px;
+          height: 370px;
+          width: 472px;}
+
+          button.headings{
+            background-color:antiquewhite;
+           padding:8px,16px,8px,16px;
+           border-radius: 20px;
+           border-style: none;
+           width: 258px;
+           height: 40px;
+           margin-left: 120px;}
+
+           button.headings a{
+            text-decoration: none;
+            color:#722ED1;
+            font-weight: 500;}
+
+            #headings-you form{padding-left:7em;}
+
+            button.sub-head{
+              background-color: #722ED1;
+              border-radius: 23px;
+              padding: 12px,24px,12px,24px;
+              width: 142px;
+              height: 38px;
+              border-style: none;}
+
+              button.sub-head a{
+                text-decoration: none;
+                color: white;}
+
+                button.sub-head2{
+                  background-color: #FFFFFF;
+                  width: 126px;
+                  height: 38px;
+                  border-radius: 23px;
+                  padding: 12px,24px,12px,24px;
+                  border-style: none;
+                }
+                button.sub-head2 a{
+                  text-decoration: none;
+                  color: #722ED1 ;
+                }
+                /*where first page ends*/
+             
+
+                div#second-page{
+                  margin-top: 660px;
+                  margin-left: 240px;
+                  width: 963px;
+                  height: 368px;}   
+
+
+                #about-us{text-align: center;}
+
+                #about-us button{
+                  width: 157.78px;
+                   height: 40px;
+                   border-radius: 20px;
+                   padding: 8px,16px,8px,16px;
+                   background-color: #F7F1FF;
+                   border-style: none;
+                   margin-right:100px;}
+
+
+                   #about-us button a{
+                    text-decoration: none;
+                    color:#722ED1 ;
+                    font-weight: 500;
+                    font-size: 16px;
+                    line-height: 24px;}
+
+
+
+                    #about-us h1{
+                      width: 743px;
+                      height: 40px;
+                      font-weight: 700;
+                      font-size: 32px;
+                      line-height: 40px;
+                      padding-left: 45px;
+                     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
+
+                  
+                   #about-us p{
+                        width: 600px;
+                       height: 48px;
+                       font-weight: 500;
+                      font-size: 16px;
+                      line-height: 24px;
+                     padding-right: 40px;
+                     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
+
+                  #about-them div{
+                    width: 305px;
+                  height: 1px;}
+
+                  #about-them{
+                    display: flex;
+                     margin: 16px;}
+
+                     div#about-them h3{width: 307px;
+                      height: 24px;
+                      font-weight: 700;
+                      line-height: 24px;
+                      font-size: 18px;
+                      padding-left: 30px;
+                     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
+
+                      div#about-them p{width: 305px;
+                      height: 72px;
+                      font-weight: 500;
+                      font-size: 18px;
+                      line-height: 24px;
+                     padding-left:1px;
+                     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
+
+            /*this is where page 2 ends*/
+
+            #third-page{
+               width: 974px;
+              height: 435px;
+              display: flex;
+             margin-top: 100px;
+            margin-left:224px;}
+      
+
+            #bubble-image img{
+              width: 412.5px;
+              height: 435.5px;}
+
+              #product-teams h1{font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
+
+             #product-teams p{
+              padding-left: 1px;
+              font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
+
+             #product-teams{width: 474px;
+              height: 200px;
+              margin-left: 120px;
+              padding-top:130px;}
+
+              #product-teams button{
+                background-color:#F7F1FF;
+                width: 224px;
+                height: 40px;
+                border-radius: 20px;
+                padding: 8px,16px,8px,16px;
+                border-style: none;
+              }
+             
+              #product-teams button a{
+                text-decoration: none;
+                    color:#722ED1 ;
+                    font-weight: 500;
+                    font-size: 16px;
+                    line-height: 24px;
+              }
+              /*where page 3 ends*/
+
+              #fourth-page{ width:1174px;
+                height: 414px;
+                display: flex;
+               margin-top: 100px;
+              margin-left:180px}
+             
+              #service-one img{
+                width: 600px;
+                height: 380px;
+               margin-right:60px;}
+
+                #service-teams{
+                  width: 509px;
+                  height: 200px;
+                 padding-top: 130px;}
+
+                 #service-team h1{font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
+
+                  #service-teams p{
+                    padding-left: 1px;
+                     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
+                
+                    #service-teams button{
+                      background-color:#F7F1FF;
+                      width: 224px;
+                      height: 40px;
+                      border-radius: 20px;
+                      padding: 8px,16px,8px,16px;
+                      border-style: none;}
+                      #service-teams button a{ 
+                        text-decoration: none;
+                        color:#722ED1 ;
+                        font-weight: 500;
+                        font-size: 16px;
+                        line-height: 24px;}
+
+                         /*where page 4 ends*/
+
+                    #fifth-page{
+                      text-align: center;
+                      justify-content: center;
+                      margin-top:30px;
+                    
+                      }
+
+                      div#fifth-page{
+                        background: linear-gradient(#f9f0ff,#E2F1FF);
+                        height:100vh;}
+
+                      #fifth-page p{padding-top:50px;
+                        font-weight: 500;
+                        font-size: 24px;
+                        line-height: 32px;
+                        color: #160637;
+                       font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
+
+                        #fifth-page h3{margin-top: 25px;
+                          font-weight: 700;
+                          font-size: 16px;
+                         line-height: 24px;
+                         font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                         }
+
+                         #fifth-page ul li
+                         {width: 144.63;
+                        height: 38.02px;
+                        margin-left:120px;
+                        margin-top:10px;
+                        }
+
+                       ul.second-list{display: flex;}
+
+                       #testimonies{padding-top:90px;}
+                       #testimonies hr{width:1090px;
+                       background-color: #dec9fa;
+                      border-color:#dec9fa ;}
+
+                   /*this is where the fifth page ends*/
+                          
+                   #sixth-page{
+                    width: 962px;
+                    height: 522px;
+                    margin-left: 238px;
+                    margin-top: 150px;
+                    border-radius: 8px;
+                     border: 1px;
+                    display: flex;}
+
+
+                    #Trusted hr{
+                      width: 144px;
+                      height: 0px;
+                    margin-top:30px;
+                    background-color: #dec9fa; }
+
+                     #Trusted{display: flex;
+                     width: 431px;
+                     margin-right:40px;
+                     }
+
+                     #Trusted p{width: 85px;
+                      height: 24px;
+                     padding-left: 2px;}
+                    
+                     #see-why h1{margin-left:15px;}
+
+
+                     #accenture-airbnb{margin-top:50px;
+                     width: 301.92px;
+                     height: 156.15px;
+                     margin-right: 40px;}
+
+                     #accenture-airbnb .airbnb ul{margin-top:40px;
+                    display: flex;}
+
+
+
+                    #accenture-airbnb .accenture ul{
+                      display: flex;
+                     margin-right:200px;}
+
+                     #accenture-airbnb ul li{padding-right:100px;}
+
+                     #form-div{width: 480px;
+                    height: 522px;
+                    border-radius: 8px;
+                    }
+
+                    #form-div1{
+                      width:400px;
+                     height:500px;
+                      border-radius: 8px;
+                      margin-left:100px;
+                      padding-left:40px;
+                    }
+
+                    #form-div1 button{
+                      width: 344px;
+                    height: 48px;
+                    margin-left:10px;
+                    background-color: #722ED1;
+                    border-style: none;
+                   border-radius:3px;}
+
+                    #form-div1 button a{
+                      color: #FFFFFF;
+                    width: 147px;
+                    height: 92px;
+                    font-weight: 500;
+                    font-size: 16px;
+                    line-height: 24px;
+                    text-decoration: none;
+                   }
+
+                    #form-div1 input{width: 348px;
+                    height: 48px;
+                    border-radius: 4px;
+                    border: 1px solid #d9d9d9;
+                   padding:5px;
+                   margin-top: 10px;
+                   }
+
+                   ::placeholder{
+                    font-weight: 500;
+                  font-size: 16px;
+                   line-height: 16px;
+                   color:#8989A2;}
+
+                   #form-div1 h1{margin-left:120px;}
+
+                   #form-div1 h2{
+                    margin-left: 150px;
+                  font-weight: 500;
+                  font-size: 16px;
+                  line-height: 16px;}
+
+                   #form-div1 img{
+                    width:199.3px;
+                    height: 48px;
+                    margin-left: 75px;}
+     
+                  
+                  #form-div1 p  {width: 217px;
+                   height: 14px;
+                  font-size: 14px;
+                  line-height: 14px;
+                  padding-left:75px;
+                 }
+
+                 #form-div1 hr{
+                  width: 336px;
+                  color: #8989A2;
+                  margin-left: 20px;}
+                
+                 #form-div1 p a{text-decoration: none;}
+
+                 /*this is where the sixth page ends*/
+
+                 #first-footer ul li p{padding-left:3px;
+                width: 200px;
+                height: 120px;
+               font-weight: 500;
+               line-height: 20px;
+               font-size: 12px;
+               color: #160637;}
+
+                 #footer{display: flex;}
+
+                 #first-footer ul li{margin-left:0px;}
+                 #first-footer{
+                  width: 200px;
+                height: 222.01px;}
+
+                #seventh-page{
+                  background-color: #fbfcff;
+                 margin-top: 100px;
+                 width:100%;
+                 height: 200px;}
+
+                 #seventh-page ul li{padding-top: 5px;}
+
+                 #seventh-page h3{align-items:center;}
+
+                 #sixth-footer input{width: 190px;
+                  height:30px;
+                  border-radius: 4px;
+                  border: 1px solid #d9d9d9;
+                 padding:5px;}
+
+                 #sixth-footer  ::placeholder{
+                  font-weight:400;
+                font-size:16px;
+                 line-height:16px;
+                 color:#8989A2;}
+
+                 #seventh-page h3{text-align: center;}
+
+                 #seventh-footer img{width:15px;}
+
+
+
+                
+
+                   
+                        
+
+

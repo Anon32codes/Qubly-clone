@@ -1,0 +1,90 @@
+html,*{box-sizing: border-box;}
+
+body{background-repeat: no-repeat;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-size: cover;margin-left: -30px;margin-right: -30px;margin-top: -60px;}
+
+
+#topper{text-align: right;background-image: url(uv-all.jpg);padding-bottom: 150px;}
+
+ul li{list-style-type: none;}
+
+button.header-button{padding: 0.7em;
+  background-color: red;
+  border-radius: 5px;
+  border-style: none;
+ width: 80px;
+ margin-top: 100px;
+ margin-right: 120px;}
+button.header-button a{color:white;
+  text-decoration: none;
+  font-weight: bold;}
+button.header-button:hover{
+  opacity: 0.7;
+  cursor: pointer;}
+
+
+
+#second-topper{text-align: center;
+  margin-top: 100px;
+  padding: 20px;
+  padding-right: 8px;} 
+h1.header{font-size:3vw;
+  font-weight:bolder;
+  width: 100%;
+   color:white;}
+div#second-topper h3{margin-top: -20px;
+  color:white;
+  font-weight: lighter;
+  font-size: 22px;}
+
+  div#second-topper p{color:white;
+    font-weight: lighter;
+     font-size: 21px;
+     margin-top: -10px;}
+
+     div#second-topper button{padding: 1.2em;
+      background-color: red;
+      border-radius: 3px;
+      border-style: none;
+      padding-right: -8px;
+      border: 1px solid red;
+      width: 160px;}
+      div#second-topper button a{color: white;
+      text-decoration: none;
+      font-weight: bold;}
+
+      div#second-topper button:hover{opacity:0.7;}
+
+      
+      div#second-topper input{color: white;
+        padding:1.2em;
+        background-color:rgba(15, 15, 15, 0.911);
+        border-style:groove;
+        border-radius: 3px;
+         font-size: 80%;
+         border: 1px solid #bdbdbd;
+         width:350px;}
+
+
+       ::placeholder{color: rgba(255, 255, 255, 0.699);}
+
+    div#image-container img{width: 380px;
+      height: 380px;
+       margin-bottom: 130px; }
+
+    div#third-topper{float: left;
+      padding: 2em;
+      height: auto; 
+     margin-top:100px;
+     background-color:white;
+     margin-left: -11px;
+     margin-right: -9px;
+     margin-bottom: 900px;}
+    div#third-topper div{float: right;
+      width: 48%;
+      height: 500px; 
+      margin-top: 20px;}
+
+
+      div#third-topper h1.header-2{margin-top: 150px;color: black;}
